@@ -1,4 +1,4 @@
-// WRIGHT POWERD BY HELLSTATE
+// WRIGHT POWERD BY THEINTERNETISAHELLHOLE
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
@@ -9,7 +9,7 @@ const indexFile = path.join(WRIGHT, 'index.html');
 const indexFileContent = `<!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>WRIGHT POWERD BY HELLSTATE</title>
+        <title>WRIGHT POWERD BY THEINTERNETISAHELLHOLE</title>
         
         <meta charset="UTF-8">
         <meta name="description" content="">
