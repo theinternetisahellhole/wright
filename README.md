@@ -1,6 +1,8 @@
 # wright
-![JS](https://img.shields.io/badge/JS-Vanilla-F7DF1E?logo=javascript&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-Node.js-green)
+![Language](https://img.shields.io/badge/language-JavaScript-yellow)
+![Purpose](https://img.shields.io/badge/purpose-folder%20generator-blue)
+![Run](https://img.shields.io/badge/run-node%20wright.js-important)
 
 Wright – A folder structure generator for web developers Description:
 Wright is a simple platform designed for web designers and developers working with HTML, CSS, JavaScript, PHP, and related libraries and frameworks.
