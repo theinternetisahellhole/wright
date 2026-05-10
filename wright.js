@@ -44,7 +44,7 @@ Second point: If you want to use libraries and frameworks, I suggest creating a 
 
 ## License
 
-(https://hellstate.web.app)`;
+(https://github.com/theinternetisahellhole)`;
 
 const faviconURL = 'https://hellstate.web.app/favicon.ico';
 const favicon = path.join(WRIGHT, 'favicon.ico');
