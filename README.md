@@ -16,3 +16,9 @@ To run the file, make sure Node.js is installed, then use:
 ```bash
 node wright.js
 ```
+
+
+Templates:
+
+Bootstrap version: https://github.com/theinternetisahellhole/wrightForBootstrap
+Tailwind version: https://github.com/theinternetisahellhole/wrightForTailwind
