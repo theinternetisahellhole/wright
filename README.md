@@ -18,7 +18,9 @@ node wright.js
 ```
 
 
+
 Templates:
 
 Bootstrap version: https://github.com/theinternetisahellhole/wrightForBootstrap
+
 Tailwind version: https://github.com/theinternetisahellhole/wrightForTailwind
