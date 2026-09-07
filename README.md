@@ -79,4 +79,15 @@ GitHub: https://github.com/fouad-salehi
 
 ## License
 
-This project is open source.
+This project is proprietary software.
+
+You may view and run the project for personal or evaluation purposes, subject to the terms of the `LICENSE` file.
+
+Copying, modifying, creating derivative works, incorporating the project into another project, or redistributing modified versions is not permitted.
+
+Redistribution of the original project is permitted only with clear and visible attribution to:
+
+**Fouad Salehi / WRIGHT — Web Project Folder Structure**
+
+Any use beyond the permissions granted by the `LICENSE` requires prior written permission from the copyright owner.
+
