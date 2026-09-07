@@ -1,5 +1,8 @@
 # WRIGHT Showcase
-## Websites built with WRIGHT
 
-https://kababmehrdad.shop
-https://space.sadjad.ac.ir
+## Websites Built with WRIGHT
+
+Here are some websites built using WRIGHT:
+
+* [Kabab Mehrdad](https://kababmehrdad.shop)
+* [Sadjad University Space](https://space.sadjad.ac.ir)
